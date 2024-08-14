@@ -1,0 +1,14 @@
+C:\Users\User\TELEGRAMPROBLEMS\savoljavob\obj\Debug\net8.0\savoljavob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\TELEGRAMPROBLEMS\savoljavob\obj\Debug\net8.0\savoljavob.AssemblyInfoInputs.cache
+C:\Users\User\TELEGRAMPROBLEMS\savoljavob\obj\Debug\net8.0\savoljavob.AssemblyInfo.cs
+C:\Users\User\TELEGRAMPROBLEMS\savoljavob\obj\Debug\net8.0\savoljavob.csproj.CoreCompileInputs.cache
+C:\Users\User\TELEGRAMPROBLEMS\savoljavob\bin\Debug\net8.0\savoljavob.exe
+C:\Users\User\TELEGRAMPROBLEMS\savoljavob\bin\Debug\net8.0\savoljavob.deps.json
+C:\Users\User\TELEGRAMPROBLEMS\savoljavob\bin\Debug\net8.0\savoljavob.runtimeconfig.json
+C:\Users\User\TELEGRAMPROBLEMS\savoljavob\bin\Debug\net8.0\savoljavob.dll
+C:\Users\User\TELEGRAMPROBLEMS\savoljavob\bin\Debug\net8.0\savoljavob.pdb
+C:\Users\User\TELEGRAMPROBLEMS\savoljavob\obj\Debug\net8.0\savoljavob.dll
+C:\Users\User\TELEGRAMPROBLEMS\savoljavob\obj\Debug\net8.0\refint\savoljavob.dll
+C:\Users\User\TELEGRAMPROBLEMS\savoljavob\obj\Debug\net8.0\savoljavob.pdb
+C:\Users\User\TELEGRAMPROBLEMS\savoljavob\obj\Debug\net8.0\savoljavob.genruntimeconfig.cache
+C:\Users\User\TELEGRAMPROBLEMS\savoljavob\obj\Debug\net8.0\ref\savoljavob.dll
